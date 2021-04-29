@@ -1,4 +1,4 @@
-# Blog - React
+# Blog - React, Redux, React-Redux, Redux-Thunk
 👉[Demo](https://react-youtube-videos.herokuapp.com/)👈
 
 ## What is this project? 🤔
@@ -15,7 +15,7 @@
 1. React
 2. Redux
 3. React-Redux
-4. React-Thunk
+4. Redux-Thunk
 5. json placeholder API
 6. Axios
 7. lodash
