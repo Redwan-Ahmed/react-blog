@@ -1,5 +1,5 @@
 # Blog - React, Redux, React-Redux, Redux-Thunk
-👉[Demo](https://react-youtube-videos.herokuapp.com/)👈
+Due to http://jsonplaceholder.typicode.com not allowing the API to run on networks other than HTTPS (localhost) I can not show you a demo 😞.
 
 ## What is this project? 🤔
 * A project using the json placeholder API (http://jsonplaceholder.typicode.com) to create a blog list, I used redux-thunk that allowed me to use my action creators to get the data from json placeholder to populate the state (redux store).
